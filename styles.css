@@ -1,0 +1,21 @@
+body {
+    color: pink;
+    background: black;
+    margin: 0px;
+}
+
+header {
+    border-bottom: solid 2px rgb(230, 104, 167);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(164, 7, 80);
+}
+
+section {
+    background: rgb(213, 156, 180);
+}
+
+section {
+    display: block;
+    unicode-bidi: isolate;
+}
